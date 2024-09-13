@@ -7,4 +7,4 @@ cd vcpkg
 ./vcpkg integrate install
 
 # Install Eigen
-./vcpkg install eigen3:x64-linux-static
+./vcpkg install eigen3
